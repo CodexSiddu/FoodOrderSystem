@@ -1076,7 +1076,7 @@ public class food_order_system extends javax.swing.JFrame {
             jtxtPizza2.setText("0");
         }
     }//GEN-LAST:event_jchPizza2ActionPerformed
-
+ //Hellothere
     private void jbtnDosaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtnDosaActionPerformed
         // TODO add your handling code here:
         jchDosa.setEnabled(true);
@@ -1236,7 +1236,7 @@ private JFrame frame;
        ||(iNumber == KeyEvent.VK_DELETE))
        {evt.consume();}
     }//GEN-LAST:event_jtxtDosaKeyTyped
-
+  //HEllothere2
     private void formWindowActivated(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowActivated
         // TODO add your handling code here:
         
